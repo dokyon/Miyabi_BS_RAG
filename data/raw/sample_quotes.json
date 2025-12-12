@@ -1,0 +1,169 @@
+[
+  {
+    "quoteId": "Q-2024-001",
+    "customerId": "CUST-001",
+    "vehicleInfo": "メルセデス・ベンツ Sクラス (2020年式)",
+    "items": [
+      {
+        "description": "フロントバンパー修理・塗装",
+        "unitPrice": 85000,
+        "quantity": 1,
+        "totalPrice": 85000
+      },
+      {
+        "description": "ヘッドライト研磨",
+        "unitPrice": 25000,
+        "quantity": 2,
+        "totalPrice": 50000
+      }
+    ],
+    "totalAmount": 135000,
+    "status": "承認済み",
+    "quoteDate": "2024-01-20",
+    "notes": "高級車のため、純正パーツ使用。3日間の作業予定"
+  },
+  {
+    "quoteId": "Q-2024-002",
+    "customerId": "CUST-002",
+    "vehicleInfo": "トヨタ プリウス (2019年式)",
+    "items": [
+      {
+        "description": "リアバンパー交換",
+        "unitPrice": 45000,
+        "quantity": 1,
+        "totalPrice": 45000
+      },
+      {
+        "description": "ガラスコーティング（全面）",
+        "unitPrice": 65000,
+        "quantity": 1,
+        "totalPrice": 65000
+      }
+    ],
+    "totalAmount": 110000,
+    "status": "見積中",
+    "quoteDate": "2024-02-15",
+    "notes": "コーティングは5年保証付き"
+  },
+  {
+    "quoteId": "Q-2024-003",
+    "customerId": "CUST-003",
+    "vehicleInfo": "ホンダ フィット (2021年式)",
+    "items": [
+      {
+        "description": "左側面へこみ修理",
+        "unitPrice": 55000,
+        "quantity": 1,
+        "totalPrice": 55000
+      },
+      {
+        "description": "左ドア塗装",
+        "unitPrice": 40000,
+        "quantity": 1,
+        "totalPrice": 40000
+      }
+    ],
+    "totalAmount": 95000,
+    "status": "作業完了",
+    "quoteDate": "2024-01-12",
+    "notes": "保険適用案件。保険会社への請求書発行済み"
+  },
+  {
+    "quoteId": "Q-2024-004",
+    "customerId": "CUST-004",
+    "vehicleInfo": "BMW X5 (2022年式)",
+    "items": [
+      {
+        "description": "定期メンテナンスパッケージ",
+        "unitPrice": 120000,
+        "quantity": 1,
+        "totalPrice": 120000
+      },
+      {
+        "description": "ホイールコーティング（4本）",
+        "unitPrice": 15000,
+        "quantity": 4,
+        "totalPrice": 60000
+      },
+      {
+        "description": "下回り防錆処理",
+        "unitPrice": 35000,
+        "quantity": 1,
+        "totalPrice": 35000
+      }
+    ],
+    "totalAmount": 215000,
+    "status": "承認済み",
+    "quoteDate": "2024-03-01",
+    "notes": "VIP顧客。年間契約の一環。優先対応"
+  },
+  {
+    "quoteId": "Q-2024-005",
+    "customerId": "CUST-005",
+    "vehicleInfo": "日産 ノート (2020年式)",
+    "items": [
+      {
+        "description": "ボンネットへこみ修理",
+        "unitPrice": 48000,
+        "quantity": 1,
+        "totalPrice": 48000
+      },
+      {
+        "description": "ボンネット部分塗装",
+        "unitPrice": 32000,
+        "quantity": 1,
+        "totalPrice": 32000
+      }
+    ],
+    "totalAmount": 80000,
+    "status": "見積中",
+    "quoteDate": "2024-03-05",
+    "notes": "お客様急ぎ対応希望。2日以内の完了を目標"
+  },
+  {
+    "quoteId": "Q-2024-006",
+    "customerId": "CUST-006",
+    "vehicleInfo": "トヨタ アルファード (2023年式) 他4台",
+    "items": [
+      {
+        "description": "法人車両定期点検（5台分）",
+        "unitPrice": 25000,
+        "quantity": 5,
+        "totalPrice": 125000
+      },
+      {
+        "description": "小キズ修理・タッチアップ",
+        "unitPrice": 15000,
+        "quantity": 3,
+        "totalPrice": 45000
+      }
+    ],
+    "totalAmount": 170000,
+    "status": "承認済み",
+    "quoteDate": "2024-02-20",
+    "notes": "法人契約。月次定期メンテナンス"
+  },
+  {
+    "quoteId": "Q-2024-007",
+    "customerId": "CUST-007",
+    "vehicleInfo": "マツダ CX-5 (2018年式)",
+    "items": [
+      {
+        "description": "全塗装（パールホワイト）",
+        "unitPrice": 180000,
+        "quantity": 1,
+        "totalPrice": 180000
+      },
+      {
+        "description": "ホイール交換（社外品）",
+        "unitPrice": 80000,
+        "quantity": 1,
+        "totalPrice": 80000
+      }
+    ],
+    "totalAmount": 260000,
+    "status": "作業完了",
+    "quoteDate": "2023-11-10",
+    "notes": "カスタムペイント。お客様大変満足、高評価"
+  }
+]

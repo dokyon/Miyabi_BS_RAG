@@ -5,10 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "tsx src/index.ts",
+    "start": "tsx src/index.ts",
     "build": "tsc",
     "test": "vitest",
     "lint": "eslint . --ext .ts,.tsx",
     "typecheck": "tsc --noEmit",
+    "load-sample-data": "tsx src/scripts/loadSampleData.ts",
     "agents:parallel:exec": "echo '🤖 Miyabi Agent execution' && exit 0"
   },
   "keywords": [

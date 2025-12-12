@@ -1,0 +1,220 @@
+[
+  {
+    "workId": "WORK-001",
+    "customerId": "CUST-001",
+    "vehicleInfo": "メルセデス・ベンツ Sクラス (2020年式)",
+    "workType": "板金塗装",
+    "description": "フロントバンパー修理および塗装作業。駐車場での接触による小傷とへこみ修理",
+    "technician": "山本職人",
+    "workDate": "2024-01-25",
+    "partsUsed": [
+      {
+        "partName": "塗料（純正カラー）",
+        "quantity": 1,
+        "unitPrice": 18000,
+        "totalPrice": 18000
+      },
+      {
+        "partName": "研磨剤",
+        "quantity": 2,
+        "unitPrice": 3000,
+        "totalPrice": 6000
+      }
+    ],
+    "laborCost": 75000,
+    "partsCost": 24000,
+    "totalCost": 99000,
+    "rating": 5,
+    "notes": "仕上がりに大変満足いただけました。次回車検時の予約もいただきました"
+  },
+  {
+    "workId": "WORK-002",
+    "customerId": "CUST-002",
+    "vehicleInfo": "トヨタ プリウス (2019年式)",
+    "workType": "コーティング",
+    "description": "ガラスコーティング全面施工。5年保証付き",
+    "technician": "佐々木職人",
+    "workDate": "2023-03-25",
+    "partsUsed": [
+      {
+        "partName": "ガラスコーティング剤",
+        "quantity": 1,
+        "unitPrice": 35000,
+        "totalPrice": 35000
+      },
+      {
+        "partName": "下地処理剤",
+        "quantity": 1,
+        "unitPrice": 8000,
+        "totalPrice": 8000
+      }
+    ],
+    "laborCost": 50000,
+    "partsCost": 43000,
+    "totalCost": 93000,
+    "rating": 5,
+    "notes": "コーティング後の水弾きに感動されていました"
+  },
+  {
+    "workId": "WORK-003",
+    "customerId": "CUST-003",
+    "vehicleInfo": "ホンダ フィット (2021年式)",
+    "workType": "板金修理",
+    "description": "左側面へこみ修理およびドア塗装。保険適用案件",
+    "technician": "田村職人",
+    "workDate": "2024-01-18",
+    "partsUsed": [
+      {
+        "partName": "塗料",
+        "quantity": 1,
+        "unitPrice": 12000,
+        "totalPrice": 12000
+      },
+      {
+        "partName": "パテ材",
+        "quantity": 1,
+        "unitPrice": 4000,
+        "totalPrice": 4000
+      }
+    ],
+    "laborCost": 68000,
+    "partsCost": 16000,
+    "totalCost": 84000,
+    "rating": 4,
+    "notes": "保険会社対応含めスムーズに完了。お客様も満足"
+  },
+  {
+    "workId": "WORK-004",
+    "customerId": "CUST-004",
+    "vehicleInfo": "BMW X5 (2022年式)",
+    "workType": "メンテナンス",
+    "description": "VIP顧客向け定期メンテナンスパッケージ実施",
+    "technician": "山本職人",
+    "workDate": "2024-03-10",
+    "partsUsed": [
+      {
+        "partName": "ホイールコーティング剤",
+        "quantity": 4,
+        "unitPrice": 8000,
+        "totalPrice": 32000
+      },
+      {
+        "partName": "防錆処理剤",
+        "quantity": 2,
+        "unitPrice": 12000,
+        "totalPrice": 24000
+      }
+    ],
+    "laborCost": 130000,
+    "partsCost": 56000,
+    "totalCost": 186000,
+    "rating": 5,
+    "notes": "年間契約3年目。信頼関係良好。次回は6月予定"
+  },
+  {
+    "workId": "WORK-005",
+    "customerId": "CUST-007",
+    "vehicleInfo": "マツダ CX-5 (2018年式)",
+    "workType": "全塗装",
+    "description": "車両全体の塗装作業。パールホワイトへの塗り替え",
+    "technician": "佐々木職人",
+    "workDate": "2023-11-18",
+    "partsUsed": [
+      {
+        "partName": "塗料（パールホワイト）",
+        "quantity": 5,
+        "unitPrice": 22000,
+        "totalPrice": 110000
+      },
+      {
+        "partName": "クリア塗料",
+        "quantity": 3,
+        "unitPrice": 18000,
+        "totalPrice": 54000
+      },
+      {
+        "partName": "下地処理材",
+        "quantity": 2,
+        "unitPrice": 8000,
+        "totalPrice": 16000
+      }
+    ],
+    "laborCost": 150000,
+    "partsCost": 180000,
+    "totalCost": 330000,
+    "rating": 5,
+    "notes": "大規模作業。10日間かけて丁寧に仕上げ。お客様から最高評価"
+  },
+  {
+    "workId": "WORK-006",
+    "customerId": "CUST-008",
+    "vehicleInfo": "スズキ ワゴンR (2019年式)",
+    "workType": "小キズ修理",
+    "description": "ドア部分の小さな傷の修理とタッチアップ",
+    "technician": "田村職人",
+    "workDate": "2023-08-05",
+    "partsUsed": [
+      {
+        "partName": "タッチアップペン",
+        "quantity": 1,
+        "unitPrice": 2500,
+        "totalPrice": 2500
+      }
+    ],
+    "laborCost": 18000,
+    "partsCost": 2500,
+    "totalCost": 20500,
+    "rating": 4,
+    "notes": "簡易作業。短時間で完了"
+  },
+  {
+    "workId": "WORK-007",
+    "customerId": "CUST-006",
+    "vehicleInfo": "トヨタ アルファード (2023年式)",
+    "workType": "定期点検",
+    "description": "法人契約車両の月次定期点検およびメンテナンス",
+    "technician": "山本職人",
+    "workDate": "2024-02-28",
+    "partsUsed": [
+      {
+        "partName": "ワックス",
+        "quantity": 5,
+        "unitPrice": 3000,
+        "totalPrice": 15000
+      }
+    ],
+    "laborCost": 95000,
+    "partsCost": 15000,
+    "totalCost": 110000,
+    "rating": 5,
+    "notes": "法人契約。5台分の定期メンテナンス実施"
+  },
+  {
+    "workId": "WORK-008",
+    "customerId": "CUST-001",
+    "vehicleInfo": "メルセデス・ベンツ Sクラス (2020年式)",
+    "workType": "ヘッドライト研磨",
+    "description": "ヘッドライトの曇り除去および研磨作業",
+    "technician": "佐々木職人",
+    "workDate": "2024-01-27",
+    "partsUsed": [
+      {
+        "partName": "研磨剤（ヘッドライト専用）",
+        "quantity": 2,
+        "unitPrice": 5000,
+        "totalPrice": 10000
+      },
+      {
+        "partName": "コーティング剤",
+        "quantity": 1,
+        "unitPrice": 8000,
+        "totalPrice": 8000
+      }
+    ],
+    "laborCost": 28000,
+    "partsCost": 18000,
+    "totalCost": 46000,
+    "rating": 5,
+    "notes": "ヘッドライトが新品同様に。お客様非常に満足"
+  }
+]
