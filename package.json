@@ -30,9 +30,11 @@
   "devDependencies": {
     "@types/express": "^5.0.6",
     "@types/node": "^20.10.0",
+    "@types/supertest": "^6.0.3",
     "@typescript-eslint/eslint-plugin": "^6.13.0",
     "@typescript-eslint/parser": "^6.13.0",
     "eslint": "^8.54.0",
+    "supertest": "^7.1.4",
     "tsx": "^4.7.0",
     "typescript": "^5.8.3",
     "vitest": "^3.2.4"
