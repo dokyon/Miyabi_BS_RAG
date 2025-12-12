@@ -11,7 +11,7 @@
     "lint": "eslint . --ext .ts,.tsx",
     "typecheck": "tsc --noEmit",
     "load-sample-data": "tsx src/scripts/loadSampleData.ts",
-    "agents:parallel:exec": "echo '🤖 Miyabi Agent execution' && exit 0"
+    "agents:parallel:exec": "tsx scripts/agents-parallel-exec.ts"
   },
   "keywords": [
     "agentic-os",
